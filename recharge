@@ -1,0 +1,4 @@
+if ( SeatCounter == 4)
+else if ( SeatCounter == 9)
+else if ( SeatCounter == 14 )
+...
